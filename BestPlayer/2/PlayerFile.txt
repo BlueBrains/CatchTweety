@@ -1,0 +1,11 @@
+null|23|6
+null|23|9
+null|24|8
+null|26|11
+null|27|6
+null|31|13
+null|36|11
+null|38|9
+null|38|10
+null|63|20
+null|65|9
